@@ -1,6 +1,16 @@
 # math-hundred-japan-tour
-record for everything
+
+## Purpose
 
 ## Date
-- 1/28 仙台機場
-- 2/1   東京的機場
+### Deaprture(01/28 TPE -> SDJ)
+- flight 1
+- flight 2
+
+### Return(02/1 NRT/HND -> TPE/SIN): 
+- flight 1
+- flight 2
+
+## Fight info
+
+## Reference
