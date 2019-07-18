@@ -1,6 +1,7 @@
 # math-hundred-japan-tour
 
 ## Purpose
+- to record everything
 
 ## Date
 ### Deaprture
