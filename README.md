@@ -10,7 +10,7 @@
 - flight 2
 
 ### Return
-(02/1 NRT/HND -> TPE/SIN): 
+(02/01 NRT/HND -> TPE/SIN): 
 - flight 1
 - flight 2
 
