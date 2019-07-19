@@ -2,7 +2,11 @@
 
 ## Purpose
 - to record everything
-
+- [ ]滑幾天？
+- [ ]要安排幾個大景點？
+  - 兩天滑雪(dutsai)
+    - 兩個雪場方案: ...
+    - 一個雪場方案：我看地圖就藏王可以滑學跟泡溫泉又適合新手
 ## Date
 ### Deaprture:
 (01/28 TPE -> SDJ)
