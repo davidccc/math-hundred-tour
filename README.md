@@ -1,13 +1,10 @@
-math-hundred-japan-tour
+Math-hundred-japan-tour
 =====
-## Purpose
-- to record everything
-- [ ]滑幾天？
-- [ ]要安排幾個大景點？
-  - 兩天滑雪(dutsai)
-    - 兩個雪場方案: ...
-    - 一個雪場方案：我看地圖就藏王可以滑學跟泡溫泉又適合新手
-## Date
+# Date (Final)
+2020/1/28~2020/2/1
+
+# Traffic
+## Flight
 ### Deaprture:
 (01/28 TPE -> SDJ)
 - flight 1
@@ -18,7 +15,15 @@ math-hundred-japan-tour
 - flight 1
 - flight 2
 
-## Fight info
+# Discussion items
+- to record everything
+- [ ]滑幾天？
+- [ ]要安排幾個大景點？
+  - 兩天滑雪(dutsai)
+    - 兩個雪場方案: ...
+    - 一個雪場方案：我看地圖就藏王可以滑學跟泡溫泉又適合新手
+
+
 
 ## Reference
 - [勇闖鬆雪秘境！盤點日本東北5大滑雪場:安比高原、藏王、磐梯山、雫石、田澤湖](https://solomo.xinmedia.com/ski/109138-japan)
