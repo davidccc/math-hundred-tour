@@ -30,3 +30,4 @@ Math-hundred-japan-tour
 - [東北五大滑雪場比較](https://spiceup.io/sendai_ski)
 - [想去東北自助旅遊卻不知從何下手？](http://tohoku.letsgojp.com/archives/19063)
 - [想去東北自助旅遊卻不知從何下手？交通篇](http://tohoku.letsgojp.com/archives/19234/)
+- [日本觀光局 東北地區的滑雪場](https://www.welcome2japan.tw/attractions/rest/ski/tohoku.html)
