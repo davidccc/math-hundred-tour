@@ -5,15 +5,12 @@ Math-hundred-japan-tour
 
 # Traffic
 ## Flight
-### Deaprture:
-(01/28 TPE -> SDJ)
-- flight 1
-- flight 2
+- Deaprture: (01/28 TPE -> NRT成田)
+  - flight 13:30
+- Arrival: (02/01 NRT -> TPE/Sin)
+    - flight Taiwan: 13:00
+    - flight Singapore:
 
-### Return:
-(02/01 NRT/HND -> TPE/SIN)
-- flight 1
-- flight 2
 
 # Discussion items
 - to record everything
