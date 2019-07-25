@@ -28,6 +28,8 @@ Math-hundred-japan-tour
 ## Reference
 - [想去東北自助旅遊卻不知從何下手？](http://tohoku.letsgojp.com/archives/19063)
 - [雪道、雪具、溫泉、住宿、交通](https://hiromishi.com/2018/12/zao.html)
+### 飯店分類
+
 ### 交通分類
 - [仙台山形往返巴士](https://nancyik2001.pixnet.net/blog/post/226658525)
 - [想去東北自助旅遊卻不知從何下手？交通篇](http://tohoku.letsgojp.com/archives/19234/)
