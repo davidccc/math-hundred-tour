@@ -51,3 +51,4 @@ Math-hundred-japan-tour
 - [勇闖鬆雪秘境！盤點日本東北5大滑雪場:安比高原、藏王、磐梯山、雫石、田澤湖](https://solomo.xinmedia.com/ski/109138-japan)
  ![Alt text](https://icrvb3jy.xinmedia.com/solomo/article/109138/1E5AE489-0D0A-368A-8AC6-75699A4EB9A7.jpg)
 - [東北五大滑雪場比較](https://spiceup.io/sendai_ski)
+![Alt text](https://assets-cdn00.seespice.com/website/images/articles/sendai_ski/img_001.jpg)
