@@ -1,22 +1,24 @@
 Math-hundred-japan-tour
 =====
-# Date (Final)
-2020/1/28~2020/2/1
 
-# Traffic
-## Flight
-- Deaprture: (01/28 TPE -> NRT成田)
-  - flight 13:30
-- Arrival: (02/01 NRT -> TPE/Sin)
-    - flight Taiwan: 13:00
-    - flight Singapore:
-
-
-# Discussion items
+## Date and Flight   
+- Date  : 2020/1/28~2020/2/1
+- Flight:
+  - Deaprture: (01/28 TPE -> NRT成田)
+    - flight 13:30
+  - Arrival: (02/01 NRT -> TPE/Sin)
+      - flight Taiwan: 13:00
+      - flight Singapore:
+## Traffic
+  
+## Discussion items
 - to record everything
 - 行程路線安排: 滑幾天？ 要跑幾個雪場？ 要跑哪些景點？
     - 目前東儒建議為兩天（28東京 29~30藏王）
     - 承澤想先研究仙台
+
+
+
 
 
 
@@ -30,6 +32,7 @@ Math-hundred-japan-tour
   - 初級滑道非常適合新手練習，重點是雪具也比日本其他雪場便宜1000~2000円，纜車一日券也便宜數百至1000円，便宜的住宿選擇也很多！，同時也有藏王溫泉可以泡湯，還能搭纜車到山頂看奇觀–「藏王樹冰」，總之藏王不只是滑雪而已，也是一個純觀光旅遊的好景點。
   - 雪具（不含衣服）租2天6000円，等於1天才3000円，便宜到爆炸，熱門的苗場、輕井澤、GALA湯澤或北海道的熱門雪場，1天的板+鞋的Set都是5000~6000円，而且連租
       2天也不會比較便宜，所以到藏王滑雪真的很省錢. 
+      
 ### 飯店分類
 
 ### 交通分類
@@ -39,5 +42,12 @@ Math-hundred-japan-tour
 ### 滑雪分類
 - [滑雪場地圖](http://www.zao-ski.or.jp/wp-content/uploads/2016/10/2018Map.pdf)
 - [日本觀光局 東北地區的滑雪場](https://www.welcome2japan.tw/attractions/rest/ski/tohoku.html)
+  - 秋田縣　田澤湖滑雪場
+  - 岩手縣　安比高原滑雪場
+  - 岩手縣　八幡平度假村
+  - 岩手縣　雫石滑雪場
+  - 山形縣　藏王溫泉滑雪場
+  - 福島縣　ALTS磐梯滑雪場
 - [勇闖鬆雪秘境！盤點日本東北5大滑雪場:安比高原、藏王、磐梯山、雫石、田澤湖](https://solomo.xinmedia.com/ski/109138-japan)
+ ![Alt text](https://icrvb3jy.xinmedia.com/solomo/article/109138/1E5AE489-0D0A-368A-8AC6-75699A4EB9A7.jpg)
 - [東北五大滑雪場比較](https://spiceup.io/sendai_ski)
