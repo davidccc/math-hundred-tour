@@ -14,13 +14,8 @@ Math-hundred-japan-tour
 ## Discussion items
 - to record everything
 - 行程路線安排: 滑幾天？ 要跑幾個雪場？ 要跑哪些景點？
-    - 目前東儒建議為兩天（28東京 29~30藏王）
+    - 目前東儒建議為兩天（1/28山形 1/29~1/30藏王 1/31 東京）
     - 承澤想先研究仙台
-
-
-
-
-
 
 ## Reference
 - [想去東北自助旅遊卻不知從何下手？](http://tohoku.letsgojp.com/archives/19063)
