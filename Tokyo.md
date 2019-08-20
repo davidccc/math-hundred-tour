@@ -35,4 +35,4 @@
 - 溫泉浴 
 - 每日清潔服務 
 - 早餐
-- 東京jr -> Homeikan Honkan / Daimachi Annex  (通車34分)
+- 東京jr -> Homeikan Honkan / Daimachi Annex  (通車20分)
