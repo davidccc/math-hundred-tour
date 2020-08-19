@@ -24,6 +24,7 @@ Math hundred Tainan Tour
       
 # 飯店 8/20付訂金 共5間四人房
 - [走馬賴:渡假木屋](http://www.farm.com.tw/news_detail.php?id=140)
+![](http://www.farm.com.tw/upload/1592281517_8515.jpg)
 - 價位: 木屋四人房:3420 =>希望以後承澤賺大錢就能住高級一點
 
 # 烤肉(Todo)
