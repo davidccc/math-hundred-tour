@@ -1,12 +1,12 @@
 Math hundred Tainan Tour
 =====
 
-## Date
+# Date
 - Date  : 2020/10/03~2020/10/04
-## 交通分類
+# 交通分類
   - 自行前往
   - 組團坐計程車
-## 參加人員
+# 參加人員
  - 顯程一家四口 (3240 NT)
  - g凱一家四口  (3240 NT)
  - pc 一家兩口  (1620 NT) 8/20已付款
@@ -22,17 +22,19 @@ Math hundred Tainan Tour
  - 顧永順 (810 NT)
  - 阿梁2口 不確定
       
-## 飯店 8/20付訂金 共5間四人房
+# 飯店 8/20付訂金 共5間四人房
 - [走馬賴:渡假木屋](http://www.farm.com.tw/news_detail.php?id=140)
 - 價位: 木屋四人房:3420 =>希望以後承澤賺大錢就能住高級一點
 
-## 烤肉(Todo)
+# 烤肉(Todo)
 - Dung-Ru wil confirm the accessory with the farmer owner.
 - I will dispatch the work for every one.
-### 食材 
-#### 肉類
+## 食材 
+### 肉類
 
-#### 蔬菜類
+### 蔬菜類
+
+### Drink
 
 #### 烤肉用具 I hope the famer will provide, use the free source.
 - [ ] 場地
