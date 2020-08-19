@@ -1,27 +1,21 @@
-Math-hundred-japan-tour
+Math-hundred-Tainan-tour
 =====
 
-## Date and Flight   
-- Date  : 2020/10/02~2020/10/04
-
-
-## Traffic
-  - car rent 
-    - 東儒評估 2 days 8hrs 大概 5000
-  - taxi 
-  
-## Discussion items
-- to record everything
-- 住宿地點(尚未決定: 
-    - 承澤阿姨有經營的民宿
-    - 舜哥的家教學生
-
-## Reference
-- 
+## Date
+- Date  : 2020/10/03~2020/10/04
+## 交通分類
+  - 自行前往
+  - 組團坐計程車
+## 參加人員
+ - 顯程一家四口
+ - g凱一家四口
+ - pc 一家兩口
+ - 承澤, 互恩, 阿湯, 冠賢, 扁扁,日文可可, 智勇,驢子,東儒，顧永順
+ - 阿梁2口 不確定
       
-### 飯店分類
+## 飯店
+- [走馬賴:渡假木屋](http://www.farm.com.tw/news_detail.php?id=140)
+- 價位: 2人房2700, 四人房:3420
 
-### 交通分類
-
-### 滑雪分類
+## 烤肉(需要認領)
 - 
