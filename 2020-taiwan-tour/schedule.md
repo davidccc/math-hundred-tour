@@ -29,3 +29,16 @@ Math hundred Tainan Tour
 ## 烤肉(Todo)
 - Dung-Ru wil confirm the accessory with the farmer owner.
 - I will dispatch the work for every one.
+### 食材 
+#### 肉類
+
+#### 蔬菜類
+
+#### 烤肉用具 I hope the famer will provide, use the free source.
+- [ ] 場地
+- [ ] 烤肉架
+- [ ] 火種
+- [ ] 夾子
+- [ ] 噴槍
+- [ ] 垃圾回收
+- [ ] 盤子/碗筷/餐具
