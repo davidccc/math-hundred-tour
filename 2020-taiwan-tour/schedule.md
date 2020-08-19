@@ -28,4 +28,4 @@ Math hundred Tainan Tour
 
 ## 烤肉(Todo)
 - Dung-Ru wil confirm the accessory with the farmer owner.
-- I will dispatch the work for every.
+- I will dispatch the work for every one.
