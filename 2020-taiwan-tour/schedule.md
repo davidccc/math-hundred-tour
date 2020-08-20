@@ -26,22 +26,22 @@ Math hundred Tainan Tour
 - [走馬賴:渡假木屋](http://www.farm.com.tw/news_detail.php?id=140)
 ![](http://www.farm.com.tw/upload/1592281517_8515.jpg)
 - 價位: 木屋四人房:3420 =>希望以後承澤賺大錢就能住高級一點
-
+- ATM 轉帳 → 代號：618 (台南市玉井區農會) 帳號：00243210127530
+- 來電06-5760121轉1告知帳號後5碼  5000已匯款
 # 烤肉(Todo)
-- Dung-Ru wil confirm the accessory with the farmer owner.
-- I will dispatch the work for every one.
-## 食材 
-### 肉類
 
-### 蔬菜類
+## 肉類
 
-### Drink
+## 蔬菜類
 
-#### 烤肉用具 I hope the famer will provide, use the free source.
-- [ ] 場地
-- [ ] 烤肉架
-- [ ] 火種
-- [ ] 夾子
-- [ ] 噴槍
-- [ ] 垃圾回收
-- [ ] 盤子/碗筷/餐具
+## Drink
+
+## 烤肉用具 I hope the famer will provide, use the free source.
+- [ ] 場地：有爐灶,燈光,一組爐灶100員場地費用
+- [ ] 垃圾回收：現場提供
+- [ ] 烤肉網：需自備, 當地有賣
+- [ ] 木炭: 當地有賣
+- [ ] 火種：自備
+- [ ] 夾子：自備
+- [ ] 噴槍：自備
+- [ ] 盤子/碗筷/餐具：自備
