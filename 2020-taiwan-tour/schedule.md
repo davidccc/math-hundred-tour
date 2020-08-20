@@ -38,7 +38,7 @@ Math hundred Tainan Tour
 
 ## Drink
 
-## 烤肉用具 I hope the famer will provide, use the free source.
+## 烤肉用具
 - [ ] 場地：有爐灶,燈光,一組爐灶100員場地費用
 - [ ] 垃圾回收：現場提供
 - [ ] 烤肉網：需自備, 當地有賣
