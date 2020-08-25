@@ -41,4 +41,4 @@ Math hundred Tainan Tour
 ## 烤肉用具
 - [ ] 場地：有爐灶,燈光,一組爐灶100員場地費用
 - [ ] 垃圾回收：現場提供
-- [ ] [車庫燒烤3999套餐](http://www.bbqgarage.com/3999-set-meal/)
+- [ ] [車庫燒烤1999套餐+用具](http://www.bbqgarage.com/1999-set-meal/)
