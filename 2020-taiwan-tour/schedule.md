@@ -19,8 +19,7 @@ Math hundred Tainan Tour
  - 驢子
  - 東儒
       
-# 飯店 8/20已付訂金 共5間四人房
--  5間四人房 蘭花會館：只有2張大床
+# 飯店 8/20已付訂金5000 共3間四人房 1間5人
 - [走馬賴:蘭花會館](http://www.farm.com.tw/news_detail.php?id=140)
 <img src="http://www.farm.com.tw/upload/1592281517_8515.jpg" width="700" height="700" />
 
